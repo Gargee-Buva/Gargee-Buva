@@ -1,4 +1,3 @@
-Gargee-Buva
 <h1 align="center">Hi there, I'm Gargee Buva! 👋</h1>
 
 <p align="center">
